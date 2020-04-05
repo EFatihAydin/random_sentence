@@ -1,0 +1,3 @@
+bu data içerisinde türkçe kelimelerden oluşan cümleler bulunmalıdır
+ve data ne kadar düzgün ise o kadar başarılı olur
+ortalama yerine başka istatistiksel yaklaşımlar da kullanılabilir
